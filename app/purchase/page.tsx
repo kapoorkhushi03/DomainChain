@@ -55,7 +55,9 @@ export default function PurchasePage() {
               <ArrowLeft className="mr-1 h-4 w-4" />
               Back to search
             </Link>
-            <h1 className="mt-4 text-2xl font-bold tracking-tight">Secure Your Domain</h1>
+            <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl text-white">
+     Secure Your Domain with Blockchain Technology
+        </h1>
             <p className="text-gray-500 dark:text-gray-400">
               Register and secure your domain with blockchain technology
             </p>

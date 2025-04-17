@@ -33,9 +33,9 @@ export default function Home() {
           <div className="container px-4 md:px-6">
             <div className="flex flex-col items-center space-y-4 text-center">
               <div className="space-y-2">
-                <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl">
-                  Secure Your Domain with Blockchain Technology
-                </h1>
+              <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl text-white">
+  Secure Your Domain with Blockchain Technology
+</h1>
                 <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400">
                   DomainChain lets you buy domains and secures them using blockchain, creating a one-to-one mapping of
                   your website URL and IP address stored as an NFT.
@@ -53,7 +53,9 @@ export default function Home() {
           <div className="container px-4 md:px-6">
             <div className="flex flex-col items-center justify-center space-y-4 text-center">
               <div className="space-y-2">
-                <h2 className="text-3xl font-bold tracking-tighter md:text-4xl">Ready to Secure Your Domain?</h2>
+              <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl text-white">
+  Secure Your Domain with Blockchain Technology
+</h1>
                 <p className="mx-auto max-w-[600px] text-gray-500 md:text-xl dark:text-gray-400">
                   Join thousands of users who have already secured their online presence with blockchain technology.
                 </p>

@@ -6,7 +6,7 @@ export function Features() {
       <div className="container px-4 md:px-6">
         <div className="flex flex-col items-center justify-center space-y-4 text-center">
           <div className="space-y-2">
-            <h2 className="text-3xl font-bold tracking-tighter md:text-4xl">Key Features</h2>
+            <h2 className="text-3xl font-bold tracking-tighter md:text-4xl text-white">Key Features</h2>
             <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400">
               DomainChain offers unique benefits that traditional domain registrars can't match
             </p>
@@ -16,7 +16,7 @@ export function Features() {
               <div className="flex h-12 w-12 items-center justify-center rounded-full bg-gray-100 dark:bg-gray-800">
                 <Shield className="h-6 w-6 text-gray-900 dark:text-gray-50" />
               </div>
-              <h3 className="text-xl font-bold">Tamper-Proof Security</h3>
+              <h3 className="text-xl font-bold text-white">Tamper-Proof Security</h3>
               <p className="text-sm text-gray-500 dark:text-gray-400">
                 Blockchain technology ensures your domain ownership cannot be altered or hacked.
               </p>
@@ -35,7 +35,7 @@ export function Features() {
               <div className="flex h-12 w-12 items-center justify-center rounded-full bg-gray-100 dark:bg-gray-800">
                 <Database className="h-6 w-6 text-gray-900 dark:text-gray-50" />
               </div>
-              <h3 className="text-xl font-bold">IP Address as NFT</h3>
+              <h3 className="text-xl font-bold text-white">IP Address as NFT</h3>
               <p className="text-sm text-gray-500 dark:text-gray-400">
                 Your IP address is tokenized as an NFT, creating a unique digital asset.
               </p>
@@ -54,8 +54,8 @@ export function Features() {
               <div className="flex h-12 w-12 items-center justify-center rounded-full bg-gray-100 dark:bg-gray-800">
                 <Lock className="h-6 w-6 text-gray-900 dark:text-gray-50" />
               </div>
-              <h3 className="text-xl font-bold">One-to-One Mapping</h3>
-              <p className="text-sm text-gray-500 dark:text-gray-400">
+              <h3 className="text-xl font-bold text-white">One-to-One Mapping</h3>
+              <p className="text-sm text-gray-500 dark:text-gray-400 ">
                 Secure one-to-one mapping between your domain and IP address.
               </p>
               <ul className="space-y-2 text-sm text-gray-500 dark:text-gray-400">
@@ -73,7 +73,7 @@ export function Features() {
               <div className="flex h-12 w-12 items-center justify-center rounded-full bg-gray-100 dark:bg-gray-800">
                 <Globe className="h-6 w-6 text-gray-900 dark:text-gray-50" />
               </div>
-              <h3 className="text-xl font-bold">Global DNS Integration</h3>
+              <h3 className="text-xl font-bold text-white">Global DNS Integration</h3>
               <p className="text-sm text-gray-500 dark:text-gray-400">
                 Works with the existing DNS system while adding blockchain security.
               </p>
@@ -92,7 +92,7 @@ export function Features() {
               <div className="flex h-12 w-12 items-center justify-center rounded-full bg-gray-100 dark:bg-gray-800">
                 <Zap className="h-6 w-6 text-gray-900 dark:text-gray-50" />
               </div>
-              <h3 className="text-xl font-bold">Fast Transfers</h3>
+              <h3 className="text-xl font-bold text-white">Fast Transfers</h3>
               <p className="text-sm text-gray-500 dark:text-gray-400">
                 Transfer domain ownership quickly and securely through blockchain transactions.
               </p>
@@ -111,7 +111,7 @@ export function Features() {
               <div className="flex h-12 w-12 items-center justify-center rounded-full bg-gray-100 dark:bg-gray-800">
                 <Shield className="h-6 w-6 text-gray-900 dark:text-gray-50" />
               </div>
-              <h3 className="text-xl font-bold">Anti-Fraud Protection</h3>
+              <h3 className="text-xl font-bold text-white">Anti-Fraud Protection</h3>
               <p className="text-sm text-gray-500 dark:text-gray-400">
                 Blockchain verification prevents domain fraud and phishing attempts.
               </p>
