@@ -1,0 +1,1 @@
+DomainChain: is a decentralized domain name system built on blockchain technology, aiming to eliminate traditional DNS vulnerabilities like spoofing, cache poisoning, and centralized control. By mapping domain names to IP addresses and issuing IP ownership as NFTs, BlockDNS ensures tamper-proof, transparent, and censorship-resistant domain management.
